@@ -1,0 +1,12 @@
+.navbar{
+    background: aqua;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+.main{
+    background: pink;
+    height: 1000px;
+    width: 100%;
+}
